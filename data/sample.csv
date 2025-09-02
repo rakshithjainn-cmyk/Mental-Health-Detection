@@ -1,4 +1,4 @@
 # CSV with header: text,label
 # Example:
-# "i feel hopeless and sad",depression
+# "i feel hopeless and sad,depression
 # "i'm anxious about exams",anxiety
